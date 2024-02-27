@@ -1,8 +1,11 @@
 body{
     background-color: #fff;
 }
+ul {
+    list-style-type: none;
+}
 
-.header {}
+/* .header {}
 
 .title-logo {}
 
@@ -12,4 +15,4 @@ body{
 
 .header-nav-li {}
 
-.header-button {}
+.header-button {} */
